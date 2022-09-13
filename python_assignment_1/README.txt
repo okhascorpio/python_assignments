@@ -1,8 +1,12 @@
+
+cd into the assignment folder
+
 Add your postgresql credentials in .env file
 
 
 install required dependencies by running 
 $ pip install -r requirements.txt
+--OR enter into pipenv shell
 
 Run the app
 $ flask run
